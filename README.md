@@ -1,14 +1,14 @@
-### genshin_lyre_midi
+### Genshin Lyre Midi 🎼🎵 💕
 i'll play some music for you with my lyre ❤
 
-#I hope you guys can contribute your midi, thank you ✨💕🎼
+##I hope you guys can contribute your midi, thank you ✨💕🎼
 
 ## How To Use
 1. Download latest verison Python in https://www.python.org/
 2. Install Python in your PC
 3. Install to python in Microsoft Store
 4. Clone or Download This Repository
-5. Download midi files
+5. Download midi files or use midi in folder here
 6. Save your midi inline with the midi_config.json file
 7. Put name of midi to json file, and Save it
 9. Run CMD Administrator
