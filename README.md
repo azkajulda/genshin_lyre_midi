@@ -1,4 +1,4 @@
-### Genshin Lyre Midi 🎼🎵 💕
+# Genshin Lyre Midi 🎼🎵 💕
 i'll play some music for you with my lyre ❤
 
 ## I hope you guys can contribute your midi, thank you ✨💕🎼
