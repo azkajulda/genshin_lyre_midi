@@ -19,6 +19,7 @@ i'll play some music for you with my lyre ❤
 14. run command ```cd C:\Example\Directory\genshin_lyre_midi```
 15. run command ```python midi.py```
 16. Try in Genhsin on lyre windsong mode
-17. Press Tab + key in your json file
-18. Please enjoy your song ❤
+17. Press ```Tab + key``` in your json file
+18. And for Stop press ```Space```
+19. Please enjoy your song ❤
 
