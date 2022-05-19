@@ -1,7 +1,7 @@
 # Genshin Lyre Midi 🎼🎵 💕
 i'll play some music for you with my lyre ❤
 
-## I hope you guys can contribute your midi, thank you ✨💕🎼
+## I hope you guys can contribute with your midi, thank you ✨💕🎼
 
 ## How To Use
 1. Download latest verison Python in https://www.python.org/
