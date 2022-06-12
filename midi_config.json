@@ -3,7 +3,7 @@
   "songs": [
     {
       "key": "1",
-      "file": "GI_itto.mid",
+      "file": "./BGM Genshin/GI_itto.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -18,7 +18,7 @@
     },
     {
       "key": "2",
-      "file": "GI_operaYunJIn.mid",
+      "file": "./BGM Genshin/GI_operaYunJIn.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -33,7 +33,7 @@
     },
     {
       "key": "3",
-      "file": "GI_Eula.mid",
+      "file": "./BGM Genshin/GI_Eula.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -48,7 +48,7 @@
     },
     {
       "key": "4",
-      "file": "GI_Yoimiya.mid",
+      "file": "./BGM Genshin/GI_Yoimiya.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -63,7 +63,7 @@
     },
     {
       "key": "5",
-      "file": "GI_Qiqi.mid",
+      "file": "./BGM Genshin/GI_Qiqi.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -78,7 +78,7 @@
     },
     {
       "key": "6",
-      "file": "GI_Klee.mid",
+      "file": "./BGM Genshin/GI_Klee.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -93,7 +93,7 @@
     },
     {
       "key": "7",
-      "file": "GI_Tsurumi-Island.mid",
+      "file": "./BGM Genshin/GI_Tsurumi-Island.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -108,7 +108,7 @@
     },
     {
       "key": "8",
-      "file": "GI_Shenhe.mid",
+      "file": "./BGM Genshin/GI_Shenhe.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -123,7 +123,7 @@
     },
     {
       "key": "x",
-      "file": "GI_Guizhong's_Lullaby.mid",
+      "file": "./BGM Genshin/GI_Guizhong's_Lullaby.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -138,7 +138,7 @@
     },
     {
       "key": "c",
-      "file": "GI_venti.mid",
+      "file": "./BGM Genshin/GI_venti.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -153,7 +153,7 @@
     },
     {
       "key": "v",
-      "file": "GI_RexIncognito.mid",
+      "file": "./BGM Genshin/GI_RexIncognito.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -168,7 +168,7 @@
     },
     {
       "key": "b",
-      "file": "GI_DawnWinery.mid",
+      "file": "./BGM Genshin/GI_DawnWinery.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -183,7 +183,7 @@
     },
     {
       "key": "n",
-      "file": "GI_FleetingColorsinFlight.mid",
+      "file": "./BGM Genshin/GI_FleetingColorsinFlight.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -198,7 +198,7 @@
     },
     {
       "key": "m",
-      "file": "GI_dragonspine2.mid",
+      "file": "./BGM Genshin/GI_dragonspine2.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -213,7 +213,7 @@
     },
     {
       "key": ",",
-      "file": "GI_Ayaka1.mid",
+      "file": "./BGM Genshin/GI_Ayaka1.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -228,7 +228,7 @@
     },
     {
       "key": "9",
-      "file": "JP_Senbonzakura.mid",
+      "file": "./JP Song/JP_Senbonzakura.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -243,7 +243,7 @@
     },
     {
       "key": "0",
-      "file": "JP_yoasobi-tabun.mid",
+      "file": "./JP Song/JP_yoasobi-tabun.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -258,7 +258,7 @@
     },
     {
       "key": "q",
-      "file": "JP_Yoru_ni_kakeru.mid",
+      "file": "./JP Song/JP_Yoru_ni_kakeru.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -273,7 +273,7 @@
     },
     {
       "key": "w",
-      "file": "JP_bad_apple.mid",
+      "file": "./JP Song/JP_bad_apple.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -288,7 +288,7 @@
     },
     {
       "key": "e",
-      "file": "JP_Gunjo-YOASOBI.mid",
+      "file": "./JP Song/JP_Gunjo-YOASOBI.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -303,7 +303,7 @@
     },
     {
       "key": "r",
-      "file": "JP_IGNITE.mid",
+      "file": "./JP Song/JP_IGNITE.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -318,7 +318,7 @@
     },
     {
       "key": "t",
-      "file": "ANIME_BlueBird.mid",
+      "file": "./Anime/ANIME_BlueBird.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -333,7 +333,7 @@
     },
     {
       "key": "y",
-      "file": "ANIME_Naruto-Wind.mid",
+      "file": "./Anime/ANIME_Naruto-Wind.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -348,7 +348,7 @@
     },
     {
       "key": "u",
-      "file": "ANIME_Naruto.mid",
+      "file": "./Anime/ANIME_Naruto.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -363,7 +363,7 @@
     },
     {
       "key": "i",
-      "file": "ANIME_This_Game(Nogamenolife).mid",
+      "file": "./Anime/ANIME_This_Game(Nogamenolife).mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -378,7 +378,7 @@
     },
     {
       "key": "o",
-      "file": "ANIME_onemoretime5centi.mid",
+      "file": "./Anime/ANIME_onemoretime5centi.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -393,7 +393,7 @@
     },
     {
       "key": "p",
-      "file": "ANIME_ShinzowoSasageyo!.mid",
+      "file": "./Anime/ANIME_ShinzowoSasageyo!.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -408,7 +408,7 @@
     },
     {
       "key": "a",
-      "file": "ANIME_sparklefull.mid",
+      "file": "./Anime/ANIME_sparklefull.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -423,7 +423,7 @@
     },
     {
       "key": ".",
-      "file": "ANIME_DADDYDADDYDOO.mid",
+      "file": "./Anime/ANIME_DADDYDADDYDOO.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -438,7 +438,7 @@
     },
     {
       "key": "l",
-      "file": "ANIME_Gurenge.mid",
+      "file": "./Anime/ANIME_Gurenge.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -453,7 +453,7 @@
     },
     {
       "key": "-",
-      "file": "ANIME_Black_Catcher.mid",
+      "file": "./Anime/ANIME_Black_Catcher.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -468,7 +468,7 @@
     },
     {
       "key": "=",
-      "file": "ANIME_Crossing_Field_SAO.mid",
+      "file": "./Anime/ANIME_Crossing_Field_SAO.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -483,7 +483,7 @@
     },
     {
       "key": "z",
-      "file": "ANIME_Hikarunara.mid",
+      "file": "./Anime/ANIME_Hikarunara.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -498,7 +498,7 @@
     },
     {
       "key": "[",
-      "file": "ANIME_Homura_Demon_Slayer.mid",
+      "file": "./Anime/ANIME_Homura_Demon_Slayer.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -513,7 +513,7 @@
     },
     {
       "key": "]",
-      "file": "ANIME_Naruto_Silhouette.mid",
+      "file": "./Anime/ANIME_Naruto_Silhouette.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -528,7 +528,7 @@
     },
     {
       "key": ";",
-      "file": "ANIME_Unravel_TokyoGoul.mid",
+      "file": "./Anime/ANIME_Unravel_TokyoGoul.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -543,7 +543,7 @@
     },
     {
       "key": "s",
-      "file": "DLL_Bohemian-Rhapsody-1.mid",
+      "file": "./DLL/DLL_Bohemian-Rhapsody-1.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -558,7 +558,7 @@
     },
     {
       "key": "d",
-      "file": "DLL_CANON.MID",
+      "file": "./DLL/DLL_CANON.MID",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -573,7 +573,7 @@
     },
     {
       "key": "f",
-      "file": "DLL_Friends-Will-Be-Friends-1.mid",
+      "file": "./DLL/DLL_Friends-Will-Be-Friends-1.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -588,7 +588,7 @@
     },
     {
       "key": "g",
-      "file": "DLL_Hotel-California.mid",
+      "file": "./DLL/DLL_Hotel-California.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -603,7 +603,7 @@
     },
     {
       "key": "h",
-      "file": "DLL_Indonesia.mid",
+      "file": "./DLL/DLL_Indonesia.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -618,7 +618,7 @@
     },
     {
       "key": "j",
-      "file": "DLL_EdSheeran-ShapeofYou.mid",
+      "file": "./DLL/DLL_EdSheeran-ShapeofYou.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -633,14 +633,14 @@
     },
     {
       "key": "/",
-      "file": "DLL_FlowerDance.mid",
+      "file": "./DLL/DLL_FlowerDance.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
       "key_press_duration": 0.01,
       "skip_start": 0,
       "root_note": "auto",
-      "auto_root_lowest": 48,
+      "auto_root_lowest": 50,
       "auto_root_highest": 84,
       "auto_root_use_count": true,
       "auto_root_use_channels": [],
@@ -648,7 +648,7 @@
     },
     {
       "key": "k",
-      "file": "DLL_SuperIdol.mid",
+      "file": "./DLL/DLL_SuperIdol.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -663,7 +663,7 @@
     },
     {
       "key": "'",
-      "file": "DLL_River_flows_in_you.mid",
+      "file": "./DLL/DLL_River_flows_in_you.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
@@ -671,6 +671,66 @@
       "skip_start": 0,
       "root_note": "auto",
       "auto_root_lowest": 48,
+      "auto_root_highest": 84,
+      "auto_root_use_count": true,
+      "auto_root_use_channels": [],
+      "auto_root_use_tracks": []
+    },
+    {
+      "key": "x",
+      "file": "./JP Song/JP_Sukiyaki.mid",
+      "channel_filter": [],
+      "track_filter": [],
+      "no_hold": true,
+      "key_press_duration": 0.01,
+      "skip_start": 0,
+      "root_note": "auto",
+      "auto_root_lowest": 48,
+      "auto_root_highest": 84,
+      "auto_root_use_count": true,
+      "auto_root_use_channels": [],
+      "auto_root_use_tracks": []
+    },
+    {
+      "key": "v",
+      "file": "./JP Song/JP_chitty-chitty-bang-bang.mid",
+      "channel_filter": [],
+      "track_filter": [],
+      "no_hold": true,
+      "key_press_duration": 0.01,
+      "skip_start": 0,
+      "root_note": "auto",
+      "auto_root_lowest": 43,
+      "auto_root_highest": 84,
+      "auto_root_use_count": true,
+      "auto_root_use_channels": [],
+      "auto_root_use_tracks": []
+    },
+    {
+      "key": "b",
+      "file": "./DLL/DLL_Warmness on the Soul.mid",
+      "channel_filter": [],
+      "track_filter": [],
+      "no_hold": true,
+      "key_press_duration": 0.01,
+      "skip_start": 0,
+      "root_note": "auto",
+      "auto_root_lowest": 38,
+      "auto_root_highest": 77,
+      "auto_root_use_count": true,
+      "auto_root_use_channels": [],
+      "auto_root_use_tracks": []
+    },
+    {
+      "key": "n",
+      "file": "./DLL/DLL_Fiction.mid",
+      "channel_filter": [],
+      "track_filter": [],
+      "no_hold": true,
+      "key_press_duration": 0.01,
+      "skip_start": 0,
+      "root_note": "auto",
+      "auto_root_lowest": 28,
       "auto_root_highest": 84,
       "auto_root_use_count": true,
       "auto_root_use_channels": [],
